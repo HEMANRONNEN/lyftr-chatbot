@@ -6,10 +6,10 @@ React + FastAPI + SQLite, with LiteLLM as the LLM gateway.
 
 | What | URL |
 |------|-----|
-| Frontend | `https://<your-frontend>.vercel.app` (fill in after deploying) |
-| Backend | `https://<your-backend>.onrender.com` (fill in after deploying) |
-| Health | `<backend>/health` |
-| Demo video | `<link>` |
+| Frontend | https://lyftr-chatbot-5l2xdovp8-lyftr.vercel.app/ |
+| Backend | https://lyftr-chatbot-backend-wsq3.onrender.com |
+| Health | https://lyftr-chatbot-backend-wsq3.onrender.com/health |
+| Demo video | https://lyftr-chatbot-5l2xdovp8-lyftr.vercel.app/ |
 
 ## 2. Run locally
 
